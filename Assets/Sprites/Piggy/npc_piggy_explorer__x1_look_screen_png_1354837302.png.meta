@@ -1,0 +1,1282 @@
+fileFormatVersion: 2
+guid: eeee95db4dbbb07c7aaa9030854a7885
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5122946182824049355
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_0
+  - first:
+      213: -7655796101016010146
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_1
+  - first:
+      213: 3981057951217760195
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_2
+  - first:
+      213: 1789505059900142826
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_3
+  - first:
+      213: -1933209681323511880
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_4
+  - first:
+      213: -8189661464157111589
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_5
+  - first:
+      213: 5616671169458990749
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_6
+  - first:
+      213: 9053523089401970860
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_7
+  - first:
+      213: -690711899170812410
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_8
+  - first:
+      213: 5614309196631918398
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_9
+  - first:
+      213: -4127411275255833967
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_10
+  - first:
+      213: 2826688457712161161
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_11
+  - first:
+      213: 8012148873361452252
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_12
+  - first:
+      213: 1695956327682731851
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_13
+  - first:
+      213: 578239334127674438
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_14
+  - first:
+      213: 7125999110721900890
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_15
+  - first:
+      213: -7859522135474788282
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_16
+  - first:
+      213: -1186296679381992705
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_17
+  - first:
+      213: -8746616789447492172
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_18
+  - first:
+      213: -8727810692423661380
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_19
+  - first:
+      213: -5205694681557625941
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_20
+  - first:
+      213: -7205670047790633956
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_21
+  - first:
+      213: -504864824219291720
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_22
+  - first:
+      213: 3160322233622386787
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_23
+  - first:
+      213: 8173077233944827501
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_24
+  - first:
+      213: -2855397132405173043
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_25
+  - first:
+      213: 1077742625130669537
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_26
+  - first:
+      213: -750466495830403983
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_27
+  - first:
+      213: -6623171294927530189
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_28
+  - first:
+      213: 1463503176711294129
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_29
+  - first:
+      213: -6077075847603103354
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_30
+  - first:
+      213: 7262364369265969385
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_31
+  - first:
+      213: 4177166292005527481
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_32
+  - first:
+      213: -8033572178585651024
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_33
+  - first:
+      213: -8296892265855445075
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_34
+  - first:
+      213: -8669396036313379065
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_35
+  - first:
+      213: 1928376864434086726
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_36
+  - first:
+      213: 7920495191435435921
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_37
+  - first:
+      213: -3338435245694437829
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_38
+  - first:
+      213: -2180171847717089755
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_39
+  - first:
+      213: 2093034959271943741
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_40
+  - first:
+      213: 7293821475744900313
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_41
+  - first:
+      213: -1912742961118811127
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_42
+  - first:
+      213: 6260219428869864246
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_43
+  - first:
+      213: 9137302982030146132
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_44
+  - first:
+      213: -5809802834251931906
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_45
+  - first:
+      213: -396414745758448414
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_46
+  - first:
+      213: 3048282924644326571
+    second: npc_piggy_explorer__x1_look_screen_png_1354837302_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5354459d693a7e8b0800000000000000
+      internalID: -5122946182824049355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52ce1e120621c590800000000000000
+      internalID: -7655796101016010146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c734943d1f8f3730800000000000000
+      internalID: 3981057951217760195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4bc1bee5995d810800000000000000
+      internalID: 1789505059900142826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfad54990cdb25e0800000000000000
+      internalID: -1933209681323511880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab53ef94a785e80800000000000000
+      internalID: -8189661464157111589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee7c39bac62fd40800000000000000
+      internalID: 5616671169458990749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00a9d384394ad70800000000000000
+      internalID: 9053523089401970860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec9cfef291a66f0800000000000000
+      internalID: -690711899170812410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_9
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 256
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37447ce7780aed40800000000000000
+      internalID: 5614309196631918398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a1f68205d78b6c0800000000000000
+      internalID: -4127411275255833967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98151a40d2a6a3720800000000000000
+      internalID: 2826688457712161161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc614c33fed03f60800000000000000
+      internalID: 8012148873361452252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fea126b4f398710800000000000000
+      internalID: 1695956327682731851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644a6d95c91560800800000000000000
+      internalID: 578239334127674438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a511450af62a4e260800000000000000
+      internalID: 7125999110721900890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648a4b2624e5de290800000000000000
+      internalID: -7859522135474788282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaf533947d698fe0800000000000000
+      internalID: -1186296679381992705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb38e1f56cd9680800000000000000
+      internalID: -8746616789447492172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_19
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 192
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb84b3bca6690e680800000000000000
+      internalID: -8727810692423661380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba31e90a448a1c7b0800000000000000
+      internalID: -5205694681557625941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c64c0d441500c90800000000000000
+      internalID: -7205670047790633956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfa1d40e1c5ef8f0800000000000000
+      internalID: -504864824219291720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368d4dec358bbdb20800000000000000
+      internalID: 3160322233622386787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d661d13017a9c6170800000000000000
+      internalID: 8173077233944827501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc41256cf679f58d0800000000000000
+      internalID: -2855397132405173043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_26
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e53a1539e4fe00800000000000000
+      internalID: 1077742625130669537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_27
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174523cb2bec595f0800000000000000
+      internalID: -750466495830403983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_28
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337d74f5cc4c514a0800000000000000
+      internalID: -6623171294927530189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_29
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 128
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc488f92686f4410800000000000000
+      internalID: 1463503176711294129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689d28ed6b3e9aba0800000000000000
+      internalID: -6077075847603103354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e84d8b8ae919c460800000000000000
+      internalID: 7262364369265969385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf99ba6c9648f930800000000000000
+      internalID: 4177166292005527481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8f0f1daa4038090800000000000000
+      internalID: -8033572178585651024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7100a61748bdc80800000000000000
+      internalID: -8296892265855445075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f8c56cc3e10b780800000000000000
+      internalID: -8669396036313379065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_36
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ecad8a88f2ca10800000000000000
+      internalID: 1928376864434086726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_37
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fd2ba79604bed60800000000000000
+      internalID: 7920495191435435921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b363db2f4de7ba1d0800000000000000
+      internalID: -3338435245694437829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_39
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 64
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e048b61497eb1e0800000000000000
+      internalID: -2180171847717089755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed0e1c434fb0d10800000000000000
+      internalID: 2093034959271943741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e3e4ecfbd83560800000000000000
+      internalID: 7293821475744900313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c62e739629475e0800000000000000
+      internalID: -1912742961118811127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b79c90764c0e650800000000000000
+      internalID: 6260219428869864246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a360196a83ece70800000000000000
+      internalID: 9137302982030146132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_45
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe1b599a1f6f5fa0800000000000000
+      internalID: -5809802834251931906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_46
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4475793e6af7af0800000000000000
+      internalID: -396414745758448414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy_explorer__x1_look_screen_png_1354837302_47
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac50526b2dad4a20800000000000000
+      internalID: 3048282924644326571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
