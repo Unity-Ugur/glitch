@@ -12,9 +12,13 @@ public class DefenderSpawner : MonoBehaviour
 
     private void SpawnDefender()
     {
-        Defender defender = Instantiate(defender, GetSquareClicked(), transform.rotation) as Defender;
+        Defender defenderIns = Instantiate(defender, GetSquareClicked(), transform.rotation) as Defender;
     }
 
+    public void SetSelectedDefender(Defender defenderToSelect)
+    {
+        defender = defenderToSelect;
+    }
     private Vector2 SnapToGrid(Vector2 rawWorldPos)
     {
         float newX = Mathf.Round(rawWorldPos.x);

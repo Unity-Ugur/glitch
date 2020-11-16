@@ -11,24 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5696bbaf-6aed-4550-bfd5-e78f8fa68df9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Game/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Animator Controller Piggy.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Animator Controller Piggy.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Piggy Look.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Piggy Look.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Piggy Walk.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Piggy Walk.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Defender Pig.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Defender Pig.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fox.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fox.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Whortleberry.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Whortleberry.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Piggy/npc_piggy_explorer__x1_look_screen_png_1354837302.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Piggy/npc_piggy_explorer__x1_look_screen_png_1354837302.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Piggy/npc_piggy_explorer__x1_walk_png_1354837301.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Piggy/npc_piggy_explorer__x1_walk_png_1354837301.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +44,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Defender.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" />
       </list>
     </option>
   </component>
@@ -110,7 +94,7 @@
       <workItem from="1604568887445" duration="8810000" />
       <workItem from="1604908747087" duration="2228000" />
       <workItem from="1605341368528" duration="9738000" />
-      <workItem from="1605515473994" duration="7804000" />
+      <workItem from="1605515473994" duration="8094000" />
     </task>
     <servers />
   </component>
@@ -157,13 +141,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs</url>
-          <line>25</line>
+          <line>29</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" initialLine="17">
             <startOffsets>
-              <option value="569" />
+              <option value="688" />
             </startOffsets>
             <endOffsets>
-              <option value="570" />
+              <option value="689" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
