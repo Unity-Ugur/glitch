@@ -40,6 +40,8 @@ GameObject:
   m_Component:
   - component: {fileID: 6274570044483196263}
   - component: {fileID: 8101142702118959942}
+  - component: {fileID: 524935103}
+  - component: {fileID: 6095276305641658382}
   m_Layer: 0
   m_Name: Defender Pig Main
   m_TagString: Untagged
@@ -75,6 +77,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   starCost: 100
+--- !u!114 &524935103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2880483713636488274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3371521cb7764c8d294fc55ae0396bd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 8354720065858862198, guid: f850fc20133df5405a58c51b987f2dc2, type: 3}
+  gun: {fileID: 1552552894592517433}
+--- !u!95 &6095276305641658382
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2880483713636488274}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b38d005117247d208b4680983d467cdd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7158203677622107185
 GameObject:
   m_ObjectHideFlags: 0
@@ -84,11 +119,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3650366369921744775}
-  - component: {fileID: 2366924403912380394}
   - component: {fileID: 477314856447549318}
-  - component: {fileID: 2894378604344780081}
   m_Layer: 0
-  m_Name: Defender Pig
+  m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -109,25 +142,6 @@ Transform:
   m_Father: {fileID: 6274570044483196263}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &2366924403912380394
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7158203677622107185}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: bbedd0ea32f2d64e180b33b5d2312def, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!212 &477314856447549318
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -179,17 +193,3 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2894378604344780081
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7158203677622107185}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3371521cb7764c8d294fc55ae0396bd1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  projectile: {fileID: 8354720065858862198, guid: f850fc20133df5405a58c51b987f2dc2, type: 3}
-  gun: {fileID: 1552552894592517433}

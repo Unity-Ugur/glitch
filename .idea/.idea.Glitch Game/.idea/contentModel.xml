@@ -17,6 +17,7 @@
           <e p="Projectile.cs" t="Include" />
           <e p="ScreenLoader.cs" t="Include" />
           <e p="Shooter.cs" t="Include" />
+          <e p="StarDisplay.cs" t="Include" />
         </e>
       </e>
       <e p="Glitch Game.sln" t="IncludeFlat" />

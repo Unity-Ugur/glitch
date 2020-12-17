@@ -11,8 +11,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5696bbaf-6aed-4550-bfd5-e78f8fa68df9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Game/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Animation Clip Tropy Bounce.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Animation Clip Tropy Bounce.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Animation Fox Jump.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Animation Fox Jump.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Animator Controller Fox.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Animator Controller Fox.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Anmiation Fox Walking.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Anmiation Fox Walking.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Defender/Animator Controller Piggy.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Defender/Animator Controller Piggy.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Defender/Piggy Look.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Defender/Piggy Look.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Defender/Piggy Walk.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Defender/Piggy Walk.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Defender Pig Main.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Defender Pig Main.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fox.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fox.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Trophy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Trophy.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Defender.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Defender.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +45,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Defender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Block Breaker/Assets/scripts/GameStatus.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StarDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Attacker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7FD725A4-3FFC-4FF4-B0EC-9D44C5DED682/ca/cd3b31ee/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" root0="FORCE_HIGHLIGHTING" />
@@ -37,15 +60,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs" />
         <option value="$PROJECT_DIR$/Packages/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Heealth.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Defender.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Defender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StarDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" />
       </list>
     </option>
   </component>
@@ -94,7 +118,8 @@
       <workItem from="1604568887445" duration="8810000" />
       <workItem from="1604908747087" duration="2228000" />
       <workItem from="1605341368528" duration="9738000" />
-      <workItem from="1605515473994" duration="8094000" />
+      <workItem from="1605515473994" duration="22317000" />
+      <workItem from="1606328420214" duration="703000" />
     </task>
     <servers />
   </component>
@@ -131,6 +156,10 @@
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="100" y="127" width="1720" height="788" key="VCS.FileHistoryDialog/0.27.1920.988@0.27.1920.988" timestamp="1605432315457" />
+    <state x="595" y="260" width="729" height="522" key="find.popup" timestamp="1605857815380">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="595" y="260" width="729" height="522" key="find.popup/1920.0.1920.1080/0.27.1920.988/3840.0.1920.1080@0.27.1920.988" timestamp="1605857815380" />
     <state x="623" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1605290190653">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
@@ -141,13 +170,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs</url>
-          <line>29</line>
+          <line>41</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" initialLine="17">
             <startOffsets>
-              <option value="688" />
+              <option value="1006" />
             </startOffsets>
             <endOffsets>
-              <option value="689" />
+              <option value="1007" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
